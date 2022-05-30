@@ -3,6 +3,7 @@
 <p align="center">
 First equation: $Y=X\beta+\epsilon_y,\forall X$
 </p>
+</br>
 | Syntax  | Description | Test text |
 |:-------:|:-----------:|:---------:|
 |Header   | Title       |Here's this|
