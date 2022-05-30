@@ -1,6 +1,8 @@
 # Markdown0
 ### Some Math Equation
-$$First equation: X\beta+\epsilon_y,\forall X$$
+<p align="center">
+First equation: $Y=X\beta+\epsilon_y,\forall X$
+</p>
 | Syntax  | Description | Test text |
 |:-------:|:-----------:|:---------:|
 |Header   | Title       |Here's this|
