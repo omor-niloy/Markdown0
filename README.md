@@ -19,6 +19,11 @@ $$f_1(\omega)=\frac{\sigma^2}{2\pi}\,,\omega\in[-\pi,\pi]$$
 
 ![This is an image](https://camo.githubusercontent.com/e6947af48fb1f3bb4f8238ee96f307dc6ddc9c9640c373484badd0cd42a3a25d/68747470733a2f2f69636f6e732e69636f6e617263686976652e636f6d2f69636f6e732f69636f6e6b612f6d656f772f3235362f6361742d636167652d69636f6e2e706e67)
 
+```library(tidyverse)``` </br>
+```library(mdsr)``` </br>
+```SAT_2010 %>% ggplot(aes(write,..density..)) + geom_histogram() +```</br>
+```geom_density() + theme_minimal() + labs(title = "SAT Writing Scores")```</br>
+
 | Syntax  | Description | Test text |
 |:-------:|:-----------:|:---------:|
 |Header   | Title       |Here's this|
